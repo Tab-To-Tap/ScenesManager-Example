@@ -1,0 +1,15 @@
+{
+  "originHash" : "f48d9361adee85eae3685723414fcaa0d1028ebaea60d37a76aa18f6e8c34789",
+  "pins" : [
+    {
+      "identity" : "scenesmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Tab-To-Tap/ScenesManager.git",
+      "state" : {
+        "revision" : "0aed6fb543b6167abbb0f12cf1e8d7b2234c0151",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
